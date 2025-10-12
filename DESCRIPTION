@@ -31,13 +31,11 @@ Depends:
     ggimage,
     htmltools,
     systemfonts,
-    rtweet,
     patchwork,
     spotifyr,
     opencv,
     ggpage,
     tidytext,
-    ggalt,
     stats100fwd,
     iNZightPlots,
     rpart.plot
